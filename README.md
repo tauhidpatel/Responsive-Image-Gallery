@@ -1,6 +1,4 @@
-# Responsive Image Gallery
-
-![Image Gallery Demo](link-to-demo-gif.gif)
+![tauhid-image-gallery](https://github.com/Tauhid-Patel/Responsive-Image-Gallery/assets/43630196/41a0b6df-d0a4-45cc-bfde-ee98b71ffee7)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -15,8 +13,6 @@
 The Responsive Image Gallery is a visually appealing web gallery showcasing images fetched using the Picsum API. Created with CSS Flexbox, this gallery provides an excellent viewing experience on different devices and screen sizes.
 
 ## Demo
-![Image Gallery Demo](link-to-demo-gif.gif)
-
 Check out the live demo [here](https://joyful-kulfi-789b8a.netlify.app/)!
 
 ## Features
